@@ -9,3 +9,6 @@
 # Technologies used
 * C#
 * Bash file
+
+# How to Run
+bash run.sh
